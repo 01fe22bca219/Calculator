@@ -2,13 +2,6 @@ import java.util.Scanner;
 
 public class calculator {
     public static void main(String[] args) {
-        //Scanner sc=new Scanner(System.in);
-        //int a;
-        //System.out.println("Enter the first number:");
-       // a=sc.nextInt();
-       // int b;
-        //System.out.println("Enter the second number:");
-        //b=sc.nextInt();
 
         int a=20;
         int b=10;
